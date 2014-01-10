@@ -1,5 +1,3 @@
-hello
-this is virtual
-this is not
-but this is
-and this, again, is virtual
+Figure out how to create modular HTML
+Learn how to use SSH to connect with server
+Setup a local development environment
