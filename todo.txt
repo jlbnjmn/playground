@@ -1,3 +1,5 @@
 Figure out how to create modular HTML
 Learn how to use SSH to connect with server
 Setup a local development environment
+Learn node.js: http://node.codeschool.com/levels/1
+Build first website using SASS, modular HTML, and git
